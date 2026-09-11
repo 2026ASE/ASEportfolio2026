@@ -7,6 +7,7 @@ Fill in your details and get them correct, if you don't know your name, group an
 # Tutor: [Your Tutor]
 # Course: [Your Course]
 
+**See The Assignment Specification on myBeckett for assignment dates**. They are not repeated here becuase software engineers do not repeat things as this leads to bugs.
 ## [Useful Links for the Assignments](https://github.com/LeedsBeckettUniversityASE/ASEresources/blob/main/UsefulLinks.md).
 These links are likely to be updated as more information is added, so check reqularly.
 ## Assignment 1: AI Programming 3D Star Chart
