@@ -6,6 +6,33 @@ Fill in your details and get them correct, delete this line when done. Correctly
 # Group: [Your Group (look on your timetable)]
 # Course: [Your Course]
 
+Feel free to delete any of the information below to tidy up your readme, but do not delete the above information as it is used for marking.
+
+## Using the directories
+
+There are three directiories in this repo.
+
+
+**01Assignment1_AIprogramming_3DstarChart** 
+
+for the first assignment
+
+**02Assignment2_BOOSE_Interpreter**
+
+for the second assignment
+
+**03Resources**
+
+for any resources or class work  you want to add to the repo. You can add your own directories if you want, but don't delete the above three directories.
+
+**Creating a Visual Studio Project in the repo**
+
+To create a Visual Studio project go to file->new_project and then set the location to one of the above directories. Make sure you use .net10 or greater.
+
+When you commit changes go to the Git Changes tab, type in your message, click commit and then the push up arrow.
+
+##Assignments
+
 **See The Assignment Specification on myBeckett for assignment dates**. They are not repeated here becuase software engineers do not repeat things as this leads to bugs.
 ## [Useful Links for the Assignments](https://github.com/LeedsBeckettUniversityASE/ASEresources/blob/main/UsefulLinks.md).
 These links are likely to be updated as more information is added, so check reqularly.
