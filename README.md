@@ -35,7 +35,11 @@ To create a Visual Studio project go to file->new_project and then set the locat
 
 When you commit changes go to the Git Changes tab, type in your message, click commit and then the push up arrow.
 
-##Assignments
+## Assignments
+
+You must be logged into myBeckett to view the assignment spec. Sync your browswer with your LBU account.
+
+[Assignment Specification](https://leedsbeckett-my.sharepoint.com/:b:/g/personal/d_mullier_leedsbeckett_ac_uk/IQAfMN9DgVEdQJIvbNKtkIhCAe4herw6o4nj_Iun4tXZeNU?e=JiytOR)
 
 **See The Assignment Specification on myBeckett for assignment dates**. They are not repeated here becuase software engineers do not repeat things as this leads to bugs.
 ## [Useful Links for the Assignments](https://github.com/LeedsBeckettUniversityASE/ASEresources/blob/main/UsefulLinks.md).
