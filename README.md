@@ -6,6 +6,10 @@ Fill in your details and get them correct, delete this line when done. Correctly
 # Group: [Your Group (look on your timetable)]
 # Course: [Your Course]
 
+### [YouTube Demo Link for Assignment1](https://insertYourLinkHere)
+
+### [YouTube Demo Link for Assignment2](https://insertYourLinkHere)
+
 Feel free to delete any of the information below to tidy up your readme, but do not delete the above information as it is used for marking.
 
 ## Using the directories
@@ -38,14 +42,14 @@ When you commit changes go to the Git Changes tab, type in your message, click c
 These links are likely to be updated as more information is added, so check reqularly.
 ## Assignment 1: AI Programming 3D Star Chart
 See the assignment spec for details. You are expected to implement a 3D star chart using AI programming techniques. The star chart should allow users to visualize stars in a three-dimensional space, with features such as zooming, rotating, and filtering based on star properties.
-### [YouTube Demo Link for Assignment1](https://insertYourLinkHere)
+
 You must explain your code in your demo or you will be asked to do it again/a live demo.
 
 Edit the YouTube Link above, the part in the square brackets is the text you see and doesn't need to change. Put the url of your demo inside the round brackets and check it clicks through to your demo.
 
 ## Assignment 2: BOOSE Programming Language interpreter
 See the assignment spec for details. You are expected to implement an interpreter for the BOOSE programming language. The interpreter should be able to parse and execute BOOSE code, handling various constructs such as variables, loops, conditionals, and functions.
-### [YouTube Demo Link for Assignment2](https://insertYourLinkHere)
+
 You must explain your code in your demo or you will be asked to do it again/a live demo.
 
 Edit the YouTube Links above, the part in the square brackets is the text you see and doesn't need to change. Put the url of your demo inside the round brackets and check it clicks through to your demo.
