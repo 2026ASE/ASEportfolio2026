@@ -10,7 +10,7 @@ Fill in your details and get them correct, delete this line when done. Correctly
 
 ### [YouTube Demo Link for Assignment2](https://insertYourLinkHere)
 
-Feel free to delete any of the information below to tidy up your readme, but do not delete the above information as it is used for marking.
+Feel free to delete any of the information below to tidy up your readme, but do not delete the above information as it is used for marking and do not delete any files in the repo as some are used for building documentation for your assignments.
 
 
 [Details on how to create a project in these repo directories.](https://github.com/LeedsBeckettUniversityASE/ASEresources/blob/main/VisualStudioProjects.md)
